@@ -6,7 +6,6 @@ set lines=60
 set columns=100
 
 " 色テーマ
-":colorscheme molokai
 :colorscheme molokai
 
 " クリップボード共有
